@@ -17,7 +17,6 @@ const getProgressionGameData = () => {
   return result;
 };
 
-
 const task = 'What number is missing in the progression?';
 
 const playProgressionGame = () => playGame(task, getProgressionGameData);
