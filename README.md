@@ -1,10 +1,10 @@
 # Welcome to the Brain Games!
-*frontend-project-lvl1*
+*Hexlet study frontend-project*
 
 **Play 5 math games and check your brain!**
 
 
-[![Brain-games CI](https://github.com/NastyaSinitsyna/Brain-Games/actions/workflows/brain-games-CI.yml/badge.svg)](https://github.com/NastyaSinitsyna/Brain-Games/actions/workflows/brain-games-CI.yml)
+[![brain-games CI](https://github.com/NastyaSinitsyna/brain-games/actions/workflows/brain-games-CI.yml/badge.svg)](https://github.com/NastyaSinitsyna/brain-games/actions/workflows/brain-games-CI.yml)
 
 ## Setup
 
