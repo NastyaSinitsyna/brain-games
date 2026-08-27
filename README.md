@@ -4,7 +4,7 @@
 **Play 5 math games and check your brain!**
 
 
-[![Brain-games CI](https://github.com/NastyaSinitsyna/frontend-project-lvl1/workflows/Brain-games%20CI/badge.svg)](https://github.com/NastyaSinitsyna/frontend-project-lvl1/actions)
+[![Brain-games CI](https://github.com/NastyaSinitsyna/Brain-Games/actions/workflows/brain-games-CI.yml/badge.svg)](https://github.com/NastyaSinitsyna/Brain-Games/actions/workflows/brain-games-CI.yml)
 
 ## Setup
 
