@@ -1,4 +1,4 @@
-name: Brain-games CI
+name: brain-games CI
 
 on:
   - push
