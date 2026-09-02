@@ -3,9 +3,10 @@
 
 **Play 5 math games and check your brain!**
 
-
+### Action Status:
 [![brain-games CI](https://github.com/NastyaSinitsyna/brain-games/actions/workflows/brain-games-CI.yml/badge.svg)](https://github.com/NastyaSinitsyna/brain-games/actions/workflows/brain-games-CI.yml)
 
+### Stack:
 [![JavaScript](https://img.shields.io/badge/JavaScript-ES_Modules-F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![Node.js](https://img.shields.io/badge/Node.js-v24-5FA04E.svg?style=flat-square&logo=nodedotjs&logoColor=white)](https://nodejs.org/)
 [![npm](https://img.shields.io/badge/npm-Package_Manager-CB3837.svg?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
